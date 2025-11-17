@@ -43,60 +43,15 @@
 
 
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/qt-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/opencv-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></div>
-
-
-
-
-
-<div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
-    <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity">
-      <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">
-    </a>
-    <img src="https://img.shields.io/badge/maintainer-theMaintainer-blue" alt="Maintainer">
-    <a href="http://shields.io/">
-      <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Website shields.io">
-    </a>
-    <a href="https://GitHub.com/Naereen/ama">
-      <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything !">
-    </a>
-  </div>
-    <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://GitHub.com/Naereen/ama.fr">
-      <img src="https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg" alt="Demandez moi n'importe quoi !">
-    </a>
-    <a href="https://github.com/Naereen/StrapDown.js/blob/master/LICENSE">
-      <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg" alt="GitHub license">
-    </a>
-    <a href="https://blog.csdn.net/qq_60865111?type=blog">
-      <img src="https://img.shields.io/badge/Blog-CSDN-orange.svg" alt="Blog">
-    </a>
-  </div>
-</div>
-
-
-
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=用技术创造魔法，用代码点亮创意。&author=黄子豪 (Zihao)"  />
-
-
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="250" height="250" />
-</div>
-
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,csharp,python,qt,opencv,html,css,js,photoshop,lightroom,capcut,git,github,vscode,matlab,c&theme=dark&perline=7)](https://skillicons.dev)
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /></div>
 
 
 
 
 
 
-![Metrics](github-metrics.svg)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,qt,opencv,html,css,js,photoshop,linux,java,git,github,vscode,matlab,c&theme=dark&perline=7)](https://skillicons.dev)
+
 
 
 
@@ -105,8 +60,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=worstwoof&show_icons=true&theme=radical)
 
 
+</div>
+<div align="center">
 
 # 🚀 我引以为豪的项目 (My Proudest Projects) 🚀
+
+</div>
 
 ### 1. ✨ “掌间流明” (Palm Lumen)
 * 一个结合 **YOLOv5**、**OpenCV** 和 **Qt** 的酷炫应用！
@@ -126,10 +85,11 @@
 * 深入真实的工业界，使用 **Halcon** 视觉软件。
 * 独立完成了针对**芯片表面缺陷检测**和尺寸测量的项目。
 
-
+<div align="center">
+  
 ![trophy](https://github-profile-trophy.vercel.app/?username=worstwoof&row=1&column=5&theme=juicyfresh&no-frame=true&no-bg=true)
 
-
+</div>
 
 <table>
   <tr>
@@ -142,7 +102,34 @@
   </tr>
 </table>
 
+<div align="center">
+
+### ✨ 不只是个“码农”
+
+</div>
+
+除了敲代码，我的“技能点”还点在了这些地方：
+
+* **📷 创意制作:** 我熟练使用 **Photoshop** / **Lightroom** 修图，以及使用 **剪映** 剪辑视频，目前运营着抖音和小红书的账号。
+* **🗣️ 主持与策划:** 我也是“NKUIO”的负责人之一，当过Youth Dialogue的主持人。
+* **🌍 生活与爱好:** 不敲代码的时候，我喜欢打打**乒乓球** 🏓，到处**旅游**，或者戴上耳机**听歌**（这也是我做 SpaceMusic 网站的动力之一）。
+
+---
+
+<div align="center">
+
+### 🏅 我的荣誉
+
+</div>
+
+* 南开大学 2024-2025 学年“公能实践奖学金”
+* 安徽省奥林匹克信息竞赛二等奖
+
+---
+
+<p align="center">
+  📫 很高兴认识你！我的邮箱是 <b>3106405466@qq.com</b>，欢迎随时来找我聊技术、聊创意！
+</p>
 
 
 
-![GitHub 3D Contribution](https://raw.githubusercontent.com/worstwoof/worstwoof/main/profile-3d-contrib/profile-night-rainbow.svg)
