@@ -32,12 +32,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=嗨！我叫黄子豪，来自南开大学软件工程;I'm+Zihao,+a+Software+Engineer+from+Nankai+University;我坚信代码可以创造“魔法”！✨;比如用YOLOv5在手掌心放烟花...&width=600&height=50&center=true)
-
-
-
-
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=200&theme=ray&rotate=148)](https://moon-svg.minung.dev)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=嗨！我叫黄子豪，来自南开大学软件工程;I'm+Zihao,+a+Software+Engineer+from+Nankai+University;&width=600&height=50&center=true)
 
 
 
@@ -73,7 +68,7 @@
 * 我把效果发到B站，一周内获得了 **1.5万+** 的播放量！
 
 ### 2. 🧠 复现 RetinaNet (Focal Loss)
-* **独立开发者**项目，深入研究 AI 论文。
+* 深入研究 AI 论文。
 * 使用 **Jittor** 框架，从零开始完整复现了《Focal Loss for Dense Object Detection》论文。
 * 涵盖了从数据加载、FPN、Focal Loss 到模型训练的全部核心流程。
 
@@ -86,6 +81,12 @@
 * 深入真实的工业界，使用 **Halcon** 视觉软件。
 * 独立完成了针对**芯片表面缺陷检测**和尺寸测量的项目。
 * 参加中国机械工程学会国家专业技术人员继续教育基地培训项目，经考核合格，纳入机器视觉应用方向人才储备库
+
+### 5.《线性代数那些事儿》
+* 目前在任线性代数助教。
+* 与戴一冕老师和刘昊东学长共同编写了线性代数电子书《线性代数那些事儿》以及配套的PPT。
+* 我们的书希望用历史和应用来串联起枯燥的公式，让线代学习多一个有趣的视角。
+* 项目主页更新在https://grokcv.ai/teaching/
 
 <div align="center">
   
@@ -110,11 +111,11 @@
 
 </div>
 
-除了敲代码，我的“技能点”还点在了这些地方：
+除了敲代码，我生活的其他部分：
 
-* **📷 创意制作:** 我熟练使用 **Photoshop** / **Lightroom** 修图，以及使用 **剪映** 剪辑视频，目前运营着抖音和小红书的账号。
-* **🗣️ 主持与策划:** 我也是“NKUIO”的负责人之一，当过Youth Dialogue的主持人。
-* **🌍 生活与爱好:** 不敲代码的时候，我喜欢打打**乒乓球** 🏓，到处**旅游**，或者戴上耳机**听歌**（这也是我做 SpaceMusic 网站的动力之一）。
+* **📷 创意制作:** 熟练使用 **Photoshop** / **Lightroom** 修图，以及使用 **剪映** 剪辑视频，目前运营着抖音和小红书的账号。
+* **🗣️ 主持与策划:** “NKUIO”的负责人之一和“Youth Dialogue”的主持人。
+* **🌍 生活与爱好:** 打打**乒乓球** 🏓，到处**旅游**，或者戴上耳机**听歌**（这也是我做 SpaceMusic 网站的动力之一）。
 
 ---
 
