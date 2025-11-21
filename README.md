@@ -91,11 +91,6 @@
 * 我们的书希望用历史和应用来串联起枯燥的公式，让线代学习多一个有趣的视角。
 * 项目主页更新在https://grokcv.ai/teaching/
 
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=worstwoof&row=1&column=5&theme=juicyfresh&no-frame=true&no-bg=true)
-
-</div>
 
 <table>
   <tr>
