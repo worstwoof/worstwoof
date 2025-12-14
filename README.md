@@ -49,10 +49,12 @@
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=worstwoof&show_icons=true&theme=tokyonight&hide=prs" style="display: block; margin: 0 auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=worstwoof&layout=compact&hide=html&&exclude_repo=Software-Engineering-project-management-test,SE2024-ProjectManagement-test,Big-Data-Analytics-and-Application-2024" style="display: block; margin: 0 auto;" />
-</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starlight0798&show_icons=true&theme=graywhite&count_private=true&repo=github-readme-stats&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starlight0798&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true&hide=VHDL,Verilog,C++&layout=compact&langs_count=6&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
